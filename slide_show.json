@@ -1,0 +1,9 @@
+/*Actions
+
+get link = OPEN_URL
+open category = OPEN_CATEGORY
+
+*/
+
+
+{"slide_show":[{"image":"https://cdn.pixabay.com/photo/2020/07/26/11/35/lighthouse-5439227__340.jpg","action_type":"OPEN_URL","action":"https://cdn.pixabay.com/photo/2020/07/26/11/35/lighthouse-5439227__340.jpg"},{"image":"https://cdn.pixabay.com/photo/2020/06/21/12/37/deer-5324645__340.jpg","action_type":"OPEN_URL","action":"https://cdn.pixabay.com/photo/2020/07/26/11/35/lighthouse-5439227__340.jpg"},{"image":"https://cdn.pixabay.com/photo/2020/04/30/14/03/mountains-and-hills-5112952__340.jpg","action_type":"OPEN_URL","action":"https://cdn.pixabay.com/photo/2020/07/26/11/35/lighthouse-5439227__340.jpg"}]}
